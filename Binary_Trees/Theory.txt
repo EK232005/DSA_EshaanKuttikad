@@ -1,0 +1,5 @@
+Criteria for being an eligible binary tree:
+  1- at most 2 children per node
+  2- has exactly 1 root node
+  3- has exactly 1 path between the root and any node
+
