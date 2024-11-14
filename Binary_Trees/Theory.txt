@@ -3,3 +3,11 @@ Criteria for being an eligible binary tree:
   2- has exactly 1 root node
   3- has exactly 1 path between the root and any node
 
+Traversal methods for binary trees:
+
+A. Depth First Search
+  1- Inorder ==> [left -> root -> right]
+  2- Preorder ==> [root-> left -> right]
+  3- Postorder ==> [left -> right -> root]
+
+B. Breadth First Search
